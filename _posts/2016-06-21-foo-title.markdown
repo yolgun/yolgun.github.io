@@ -1,6 +1,0 @@
----
-published: true
-title: Foo Title
-layout: post
----
-Bar content
