@@ -6,8 +6,6 @@ permalink: /Java-Concurrency-In-Practice/
 source-id: 1dRvLQ1isXVC-cyW-IYF9LV8NbDT9AXgL3hChhNtJ8yE
 published: true
 ---
-# Java Concurrency In Practice
-
 ## Thread Safety
 
 * Concurrent programming is about *shared, mutable *state.
